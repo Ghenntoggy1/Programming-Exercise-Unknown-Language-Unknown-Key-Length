@@ -67,4 +67,7 @@ AUTHOR: Gusev Roman
 USER INSTRUCTIONS: you will need library: "edu.duke.\*"
                    (simplified version of File function from Java);
                    "java.util.\*" and "java.io.File".
+                   Be careful! When launching created object and accessing 
+                   the function "breakViginere", you will need to choose first 
+                   encrypted message and second multiple files - desired dictionaries.
                    
